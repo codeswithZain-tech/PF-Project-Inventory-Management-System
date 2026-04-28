@@ -1,4 +1,4 @@
-# Inventory Management System (C++)
+# PF Project Inventory Management System (C++)
 
 ## Features
 - Add Item
